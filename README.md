@@ -21,23 +21,27 @@ Meaning of digital literacy
 Safe internet practices
 Professional online presence
 Focused on visual communication using icons and minimal text
+
 Task 2: Digital Profile Development
 Created/updated profiles on:
 GitHub (profile README)
 LinkedIn (education & details)
 Kaggle (exploring data science content)
 Learned the importance of building a professional digital identity
+
 Task 3: Coding & Collaboration Platforms
 Solved a beginner problem on HackerRank
 Created a Digital Literacy Quiz using Google Forms
 Analysed responses using Google Sheets
 Gained experience in online tools for learning and data collection
+
 Task 4: Email Etiquette & Online Behaviour
 Wrote formal emails:
 Assignment extension request
 Internship application
 Created a Do’s and Don’ts checklist for social media
 Learned professional communication skills
+
 Task 5: Cybercrime Awareness
 Studied UPI fraud and online scams
 Learned prevention methods:
