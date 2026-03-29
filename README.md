@@ -73,3 +73,5 @@ Online safety should always be a priority
 Professional communication creates a positive impression
 Digital platforms can enhance learning and career growth
 
+Digital literacy awareness quiz (link):https://docs.google.com/forms/d/e/1FAIpQLSeH4f3WyygTkpd2qWXa_60lVo2ogTHIaEbBgtJcxNvJ6Kd25A/viewform?usp=publish-editor
+
