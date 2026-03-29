@@ -50,6 +50,7 @@ Avoid suspicious links
 Understood importance of reporting cybercrime
 
 Tools & Platforms Used
+
 Canva (Infographic Design)
 GitHub (Project Hosting)
 LinkedIn (Professional Networking)
@@ -58,6 +59,7 @@ HackerRank (Coding Practice)
 Google Forms & Sheets (Survey & Data Analysis)
 
 Learning Outcomes
+
 Improved understanding of digital literacy concepts
 Gained hands-on experience with online tools
 Developed professional communication skills
@@ -65,6 +67,7 @@ Learned safe internet practices and cyber awareness
 Built a foundation for a strong digital presence
 
 Key Takeaways
+
 Digital literacy is essential in today’s world
 Online safety should always be a priority
 Professional communication creates a positive impression
