@@ -1,5 +1,6 @@
 # Digital_Literacy_Project
  Digital Literacy 
+ 
 Overview
 This project was completed as part of the Digital Literacy course to develop awareness and practical knowledge about using digital tools effectively and responsibly. The project focuses on promoting safe internet practices, professional communication, and the use of digital platforms for learning and collaboration.
 
